@@ -22,6 +22,7 @@ git restore --staged + nombre del archivo borrado (para resstablecer el archivo)
 git restore + nombre del archivo borrado (se recupera el archivo)
 git log --oneline (para ver el historial de cambios)
 git pull (actualizar mi repositorio local de el que tengo en Github)
+git branch NOMBRE-NUEVA-RAMA
 git merge + nombre de rama (hacer merge de la rama al master)
 git push (subir a la nube todos mis cambios)
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY (clonar repositorio a directorio actual)
